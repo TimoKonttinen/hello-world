@@ -1,2 +1,2 @@
 # hello-world
-Eka Gitti
+Eka Gitti vain opettelutarkoituksiin
